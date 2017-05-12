@@ -201,6 +201,7 @@ var/
 sdist/
 develop-eggs/
 .installed.cfg
+__pycache__/
 
 # Installer logs
 pip-log.txt
@@ -214,3 +215,8 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+test.py
+testui.py
+.idea/
+
